@@ -1,0 +1,8 @@
+{
+    "require": {
+        "lcobucci/jwt": "^3.4",
+        "firebase/php-jwt": "^6.4",
+      "ext-json": "*",
+      "ext-mysqli": "*"
+    }
+}
